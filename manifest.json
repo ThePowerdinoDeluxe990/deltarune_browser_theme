@@ -17,7 +17,7 @@
       "bookmark_text": [0,239,253],
       "tab_background_text":[0,157,166],
       "tab_text": [0,239,253],
-      "omnibox_background": [ 0, 0, 0 ],
+      "omnibox_background": [0,0,0],
       "omnibox_text": [0,239,253 ]
     },
     "tints" : {
